@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 node_modules
 icons
 =======
@@ -11,3 +12,8 @@ icons
 node_modules
 package-lock.json
 >>>>>>> jumbotron-1.0.0
+=======
+icons
+node_modules
+package-lock.json
+>>>>>>> footer-1.0.1
